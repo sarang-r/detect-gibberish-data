@@ -1,0 +1,1 @@
+pyuic5 -x uiMainWindow.ui -o uiMainWindow.py
